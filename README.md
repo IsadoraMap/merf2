@@ -1,3 +1,5 @@
+Google research code:
+
 # MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes
 
 ## [Project Page](https://creiser.github.io/merf) | [Video](https://youtu.be/3EACM2JAcxc) | [Arxiv](https://arxiv.org/abs/2302.12249)
