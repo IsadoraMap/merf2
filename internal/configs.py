@@ -88,7 +88,7 @@ class Config:
   print_every: int = 100  # Steps between printing losses.
   train_render_every: int = 500  # Steps between validation renders
   cast_rays_in_train_step: bool = True  # If True, compute rays in train step.
-  gradient_accumulation_steps: int = 16  # Increase this value when running OOM.
+  gradient_accumulation_steps: int = 10  # Increase this value when running OOM.
   stop_after_training: bool = False
   stop_after_testing: bool = False
   stop_after_compute_alive_voxels: bool = False
